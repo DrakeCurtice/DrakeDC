@@ -1,4 +1,5 @@
-### Hi there 👋
+CS Student at ASU
+Currently learning Java, HTML, CSS, and Javascript
 
 <!--
 **DrakeDC/DrakeDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
