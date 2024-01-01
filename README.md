@@ -1,4 +1,5 @@
-CS Student at ASU
+<b>CS Student at ASU</b>
+<br />
 <br />
 Currently learning Java, HTML, CSS, and Javascript
 
